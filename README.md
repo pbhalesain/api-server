@@ -1,0 +1,1 @@
+API Server with nodejs, typescript, expressjs, mongodb, authentication/authorization, jwt, swagger, docker, kubernetes
